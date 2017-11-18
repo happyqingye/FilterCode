@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+shift+m"], "command": "filter_txt" },
+	{ "keys": ["ctrl+m"], "command": "filter_code" }
+]
