@@ -2,5 +2,9 @@
     {
         "caption": "FilterTxt: Match Lines",
         "command": "filter_txt"
+    },
+    {
+        "caption": "FilterCode: Match Lines",
+        "command": "filter_code"
     }
 ]
