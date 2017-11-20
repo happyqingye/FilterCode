@@ -16,7 +16,9 @@ If you select characters in current tab and then input the keyboard shortcuts `C
 
 If you input the keyboard shortcuts `Ctrl+m` directly and no characters are selected in current tab, a input panel of condition is showed. The search is executed after you input keyword or regular expression. And the results of search are copied into new tab.  
 
-The line of the matched item is folded in original tab. At the same time, the matched item and the related context are copied into the new tab.
+The line of the matched item is folded in original tab. At the same time, the matched item and the related context are copied into the new tab.  
+
+In the new tab, the original file will be opened if you double click right mouse button.
 #### Filter Code mode example
 ![Filter Code](https://raw.githubusercontent.com/happyqingye/image/master/FilterCode/FilterCodeProcess.gif)
 
