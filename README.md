@@ -18,7 +18,7 @@ If you input the keyboard shortcuts `Ctrl+m` directly and no characters are sele
 
 The line of the matched item is folded in original tab. At the same time, the matched item and the related context are copied into the new tab.  
 
-In the new tab, the original file will be opened if you double click right mouse button.
+In the new tab, the original file that line belong to will be opened if you double-click on it.
 #### Filter Code mode example
 ![Filter Code](https://raw.githubusercontent.com/happyqingye/image/master/FilterCode/FilterCodeProcess.gif)
 
