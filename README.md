@@ -1,12 +1,12 @@
 # FilterCode
-This plugin allows you filter code base on results of "find in Files" repeatedly. Usually used for code auditing.   
+This plugin allows you filter code base on results of "find in Files" repeatedly.    
 This project lives at https://github.com/happyqingye/FilterCode
 
 ## The current keyboard shortcut is:  
     `CTRL+m`, `CTRL+SHIFT+m`  
     
 ## Function introduction
-This plugin is used to filter content from result of search by keywords or regular expression. The action of filter can be repeatedly and the matched items will copy into new tab for next filter.  
+This plugin is used to filter content from result of search by keywords or regular expression. The action of filter can be repeatedly and the matched items will copy into new tab for next filter. Usually used for code auditing.  
 
 There are two filter modes in this plugin. One is `filter code` and another is `filter text`.   
 ### Filter Code mode 
