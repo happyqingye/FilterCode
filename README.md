@@ -1,5 +1,5 @@
 # FilterCode
-This plugin allows you filter code base on results of "find in Files" repeatedly.  
+This plugin allows you filter code base on results of "find in Files" repeatedly. Usually used for code auditing.   
 This project lives at https://github.com/happyqingye/FilterCode
 
 ## The current keyboard shortcut is:  
