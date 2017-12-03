@@ -19,9 +19,8 @@ If you input the keyboard shortcuts `ALT+m` directly and no characters are selec
 The line of the matched item is folded in original tab. At the same time, the matched item and the related context are copied into the new tab.  
 
 #### Add the mousemap(Option)
-In order to quickly open the original file, you can define the shortcut key like below: 
-<pre><code> 
-[  
+In order to quickly open the original file, you can define the shortcut key in file named Default.sublime-mousemap like below: 
+<pre><code>[  
 	{  
 		"button": "button1",  
 		"count": 2,  
@@ -29,8 +28,8 @@ In order to quickly open the original file, you can define the shortcut key like
 		"press_args":{"by":"words"},  
 		"command": "filter_code_double_click"  
 	}  
-]  
-</code></pre>
+]</code></pre>  
+
 #### Filter Code mode example
 ![Filter Code](https://raw.githubusercontent.com/happyqingye/image/master/FilterCode/FilterCodeProcess.gif)
 
