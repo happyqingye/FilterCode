@@ -29,6 +29,7 @@ In order to quickly open the original file, you can define the shortcut key in f
 		"command": "filter_code_double_click"  
 	}  
 ]</code></pre>  
+After you finished configuration, the original file be opened when you double-click the left mouse button on matched record.  
 
 #### Filter Code mode example
 ![Filter Code](https://raw.githubusercontent.com/happyqingye/image/master/FilterCode/FilterCodeProcess.gif)
